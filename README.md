@@ -3,10 +3,10 @@
 A powerful Solana token launch and distribution tool that creates tokens on PumpFun and distributes them across 20 wallets and distribute to 200 wallets without triggering flags on popular tracking platforms like Photon, GMGN.ai, and Bullx Neo.
 
 ## These are related images
+![create](https://github.com/user-attachments/assets/eca3c3d7-ab0b-4c6f-9579-2cd9510de4fb)
+![buy](https://github.com/user-attachments/assets/49eda38f-ae1c-423b-abcb-364ed568badc)
 ![gmgn](https://github.com/user-attachments/assets/f8b25fd9-e29e-4f28-9fbb-7186765f7bb7)
 ![bullx neo](https://github.com/user-attachments/assets/04de42fc-1aff-400d-bd47-f472a2c2ee40)
-![buy](https://github.com/user-attachments/assets/49eda38f-ae1c-423b-abcb-364ed568badc)
-![image](https://github.com/user-attachments/assets/eca3c3d7-ab0b-4c6f-9579-2cd9510de4fb)
 
 
 
