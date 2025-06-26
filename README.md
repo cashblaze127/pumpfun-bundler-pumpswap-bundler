@@ -1,4 +1,4 @@
-# PumpFun Bundler
+# PumpFun Bundler & PumpSwap Bundler
 
 A powerful Solana token launch and distribution tool that creates tokens on PumpFun and distributes them across 20 wallets and distribute to 200 wallets without triggering flags on popular tracking platforms like Photon, GMGN.ai, and Bullx Neo.
 
